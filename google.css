@@ -10,7 +10,7 @@ img {
 	margin: 175px auto;
 }
 input {
-	width: 250px;
+	width: 300px;
 }
 #field {
 	height: 20px;
@@ -19,14 +19,31 @@ input {
 	margin-top: -200px;
 	border: 1px solid white;
 }
-.yolo { 
-	margin: auto;	
-}
-.buttons {
-	display: inline-block;
+.gsearch {
 	height: 30px;
-	width: 100px;
-	border: 1px solid black;
+	width: 110px;
+	border: 1px solid #d1d1d1;
+	background-color: #d1d1d1;
+	color: black;
+	padding-top: 10px;
+	padding-left: 10px;
+	margin-left: 500px;
+	margin-top: 30px;
+
+}
+.lucky {
+	height: 30px;
+	width: 140px;
+	border: 1px solid #d1d1d1;
+	background-color: #d1d1d1;
+	color: black;
+	padding-top: 10px;
+	padding-left: 10px;
+	margin-left: 650px;
+	margin-top: -42px;
+}
+a {
+	text-decoration: none;
 }
 
 /*form {
